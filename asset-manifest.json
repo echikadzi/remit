@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ecocash-remit/static/css/main.d1b05096.chunk.css",
-    "main.js": "/ecocash-remit/static/js/main.cc439ffc.chunk.js",
-    "main.js.map": "/ecocash-remit/static/js/main.cc439ffc.chunk.js.map",
-    "runtime-main.js": "/ecocash-remit/static/js/runtime-main.b538d8e3.js",
-    "runtime-main.js.map": "/ecocash-remit/static/js/runtime-main.b538d8e3.js.map",
-    "static/js/2.fba2ebab.chunk.js": "/ecocash-remit/static/js/2.fba2ebab.chunk.js",
-    "static/js/2.fba2ebab.chunk.js.map": "/ecocash-remit/static/js/2.fba2ebab.chunk.js.map",
-    "index.html": "/ecocash-remit/index.html",
-    "precache-manifest.a2fb5a0915a988d6851723b657d8335f.js": "/ecocash-remit/precache-manifest.a2fb5a0915a988d6851723b657d8335f.js",
-    "service-worker.js": "/ecocash-remit/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/ecocash-remit/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.fba2ebab.chunk.js.LICENSE": "/ecocash-remit/static/js/2.fba2ebab.chunk.js.LICENSE",
-    "static/media/logo.svg": "/ecocash-remit/static/media/logo.5d5d9eef.svg"
+    "main.css": "/remit/static/css/main.d1b05096.chunk.css",
+    "main.js": "/remit/static/js/main.b55266b9.chunk.js",
+    "main.js.map": "/remit/static/js/main.b55266b9.chunk.js.map",
+    "runtime-main.js": "/remit/static/js/runtime-main.be0653a9.js",
+    "runtime-main.js.map": "/remit/static/js/runtime-main.be0653a9.js.map",
+    "static/js/2.fba2ebab.chunk.js": "/remit/static/js/2.fba2ebab.chunk.js",
+    "static/js/2.fba2ebab.chunk.js.map": "/remit/static/js/2.fba2ebab.chunk.js.map",
+    "index.html": "/remit/index.html",
+    "precache-manifest.cbd5eb58fd27a04cd97d8b4ef4e5cd0b.js": "/remit/precache-manifest.cbd5eb58fd27a04cd97d8b4ef4e5cd0b.js",
+    "service-worker.js": "/remit/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/remit/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.fba2ebab.chunk.js.LICENSE": "/remit/static/js/2.fba2ebab.chunk.js.LICENSE",
+    "static/media/logo.svg": "/remit/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b538d8e3.js",
+    "static/js/runtime-main.be0653a9.js",
     "static/js/2.fba2ebab.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.cc439ffc.chunk.js"
+    "static/js/main.b55266b9.chunk.js"
   ]
 }
